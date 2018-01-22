@@ -1,0 +1,215 @@
+CARLOS IVAN CORDOBA
+
+PRIMER CAPITULO
+
+REVIEW
+
+1.-El Software es una programa que hace que el Hardware no sea un pisapapeles, el software es aquello que es creado para ayudarnos a hacer tareas que normalmente serian dificiles de hacer.
+2.-El Software es importante ya que es una herramienta que nos ayuda a hacer cosas cotidianas más facilmente y nos ahorra tiempo.
+3.-Es importante en todo lo que hacemos día a día.
+4.-Que un software llegue a fallar puede implicar que:
+	Simplemente un celular deje de funcionar
+	O más extremo, que la computadora de un avion falle a medio vuelo y este pueda llegar a chocar
+5.-El software toma un papel muy importante ya que sin el, los aparatos que usamos, los transoportes, sean más que un monton de metal que no sirve para nada.
+	Le da parametros de funcionamientos a la computadora de un carro, la presion de las llantas, la gasolina, los controles de seguridad,etc.
+	Gracias al software es que podemos escuchar musica en los moviles y estos funcionar como tal.
+6.-Algunos trabajos relacionados con software:
+	Diseño de videojuegos
+	Diseño de aplicaciones
+	Ingeneria	
+	Arquitectura
+7.-La diferencia más grande entre programacion y ciencias de la computacion es que la programacion no es una ciencia per se, si no que es una herramienta que permite el desarrollo de las
+ciencias de la computacion entre otras.
+8.-El software en un barco se usa, desde el diseño del motor del mismo, diseño del barco, hasta programar sus rutas y automatizar el proceso.
+9.-Un "server farm" es un conjunto de computadoras(miles) que sirven para recolectar informacion y almacenarla.
+10.-Preguntas que hago en linea:
+	Puden ser que cuando me siento enfermo busco algunas de las causas
+	Imagenes de tatuajes
+	Peliculas y series
+	Musica
+11.-Uso de software en ciencia:
+	NASA
+	En las pruebas que hacen los quimicos, las maquinas que usan.
+	Física para hacer calculos mas precisos.
+12.-En medicina:
+	Los scaners para ver dentro del cuerpo
+	Los robots para hacer cirugía
+	La base de datos con la info de los pacientes
+13.-Entretenimiento:
+	Videojuegos
+	Musica, produccion y disrtibucion
+	Cine
+14.-Se espera de la persona que quiera ser buen desarrollador de software sea una persona que le guste trabajar en equipo.
+15.-Hay esteriotipos, pero en su mayoria un desarrollador se ve como persona "normal".
+16.-Analisis,diseño,programar,testing
+17.-El desarrollo puede ser dificil en algunas ocasiones ya que se tiene que tomar en cuenta que el software sea barato, que sirva y que ayude en algo a la sociedad, por lo cual se tiene
+que tomar en cuenta lo que estan pidiendo los usuarios
+18.-A mi, me hace facil la vida el software, ya que por ejemplo puedo dejar de utilizar cuadernos y escribir en la computadora en programas como este o en word.
+19.-El software solo llega a hacer mi vida dificil cuando este llega a fallar.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+EJERCICIOS
+
+1.-En mi día cotidiano puedo decir que tomo contancto con computadoras en:
+	Mi celular
+	Mi laptop
+	Las computadoras de la escuela
+	Servidores de los juegos que uso
+	Cajero del OXXO
+	Semaforos
+2.-En ingenería hidroelectrica, tienen contacto con las computadoras para usar software, impresoras para imprimir planos, celulares, televisiones para las reuniones, telofonos fijos. Eso en las oficinas
+en el campo tienen contactos con las computadoras que manejan las turbinas, carros, camiones y maquinara pesada que les ayuda a mover bloques de la construccion, tambien tienen contacto con
+barcos que les traen el material.
+4.-Jugar videojuegos, ya sea con gente en el mismo cuarto u online, ya que sin computadoras no creo que en si existirian tal cual los videojuegos como los conocemos hoy
+5.-Lista de programas que ocupo:
+	League of Legends
+	Steam
+	Spotify
+	Android
+	Visual Studio
+	Zbrush
+	Maya
+	Facebook
+	Instagram
+	Snapchat
+	Whatsapp
+	Youtube
+	Netflix
+	Chrome
+	Blizzard
+	Word
+	9GAG
+	Tinder
+	Y muchas más.
+6.-Cosas que la gente hace sin computadoras:
+	Respirar
+	Ver
+	Tocar
+	Oler
+	Amar 
+	Escuchar
+	Odiar
+	Ayudar
+	Jugar en la calle
+
+7.-Ya se usa pero no mucho, que una maquina maneje un carro.
+   Un asistente proyectado como en la pelicula Blade Runner 2049.
+   Puede ser que por medio de las computadoras se encuentre el por que de nuestra existencia como en el libro "El Origen" de Dan Brown.
+   Me quede sin ideas.
+
+8.-A mi, en general no mes gustaria tal cual ser un programador,me gusta la programación pero a lo que aspiro seria ser un desarrollador de videojuegos, ser lider de un equipo de trabajo,
+para eso tengo que ser un programador y muy bueno para lo que quiero en mi futuro.
+Todo esto es gracias a mi pasión de jugar videojuegos, lo cual tengo en cuenta que jugarlos y hacerlos son cosas muy diferentes, pero al ser de videojuegos, tengo un interes en saber como
+funcionan, como se hacen y cual es el proceso a llevar,también me gustan los retos, más que nada los retos de logica, no soy muy bueno en resolverlos pero me gusta intentarlo y poder sacar
+la respuesta.
+
+9.-En la industria, como ya mencione, me gustaria ser un lider, un profesional con la capacidad de poder hacer varios videojuegos o aplicaciones, también desarrollar conociemineto y
+evolucionar con lo nuevo que venga en tecnología, ya sea realidad virtual o aumentada,para eso primero tengo que estar bajo el mando de una persona mas experimentada y aprender de esta y 
+de las personas con las que me toque trabajar en ese momento.
+En algun punto, me gustaria llegar a ser conocido ya sea por algún descubrimiento que hice dentro de la industria o simplemente ser reconocido por el buen trabajo que llegue a hacer.
+
+10.-No creo que las computadoras, por si solas lleguen a ser tan "poderosas" ya que un humano siempre tenia que programarlas o hacerlas como le sea necesario.
+
+11.-No conzco muchos programadores para poder comentar, pero por lo que lei, un programador exitoso tiene que tener como caracteristica principal de llevarse bien con un equipo y trabajar
+sin problemas en uno. 
+
+12.-De las aplicaciones mencionadas en el capitulo, de las que me interesaria participar es en la musica, ya sea haciendo un sofware que permita realizar la musica de una manera más facil
+de lo que se puede actualmente o realizando una aplicacion como "Spotify", por que aparte de los videojuegos la musica es de las otras pocas cosas que disfruto y al no poder desarrollar 
+la habilidad para hacer musica igual me gustaria entrar en ese mundo por otro lado.
+
+13.- a)10KB+
+     b)2GB
+     c)2TB
+
+14.- Mi laptop tiene 1TB de disco duro estado solido y 8GB en RAM
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CAPITULO 2
+
+REVIEW
+1.-Para ayudarnos a entender la sintaxis de un programa en C++
+2.-El tipo de dato (int), el nombre de la funcion (main), los parametros[()] y el cuerpo [{}]
+3.-La funcion "main"
+4.-Es la parte en donde nos regresa el tipo de valor que se le dio a la funcion
+5.-Como dice su nombre su funcion es para compliar las lineas de codigo y pasarlas a lenguaje maquina
+6.-Su proposito es incluir otros codigos(o librerias) que nos ayudan a programar mas facilmente
+7.-Header file
+8.-Es la parte que toma lo compilado y lo hace programa
+9.-Un "source file" es aquello que lleva el codigo tal cual, y un "objet file" es aquel de lo que resulta del codigo en lenguaje maquina
+10.-Es una herramienta que nos permite compilar y hacer uso del linker automaticamente, tambien nos permite usar su "debugger"
+11.- Por que la programacion es una habilidad que necesita de practica y no solo entenderle.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+EJERCICIOS
+1.-Hola Programacion.cpp
+2.-Instrucciones.cpp
+3.-Instrucciones 2.cpp
+4.-Receta.cpp
+5.-TERMS.
+// doble slaash, estas son usadas para comentar
+<< esto va despues de un cout y marca el inicio de este
+C++ lenguaje de programacion
+comment Parte del codigo que la maquina no lee per se, es para que los programadores no se pierdan
+compiler Parte de C++ que lee el codigo y lo traduce a lenguaje maquina	
+compiler-time error Error que da al momento que el codigo es incorrecto y no lo puede traducir
+cout  C++ determinada para imprimir en pantalla 
+executable Se refiere a que un programa se pudo ejecutar
+function Parte del programa que debe ser definida para poder ser usada dentro del programa
+header Archivo que lleva codigo y es utilizado para llamar funciones que se ocuparan 
+IDE Herramienta que nos permite compilar automaticamente, igual que hacer el uso del debugger
+#include Codigo que nos ayuda a incluir al programa  archivos header
+library Ver header
+linker Parte de C++ que lo compilado lo combierte a un programa
+main() Funcion principal en C++
+object code El codigo que se escribio traducido a lenguaje maquina	
+output Impresion de datos a pantalla
+program El resultado de la compilacion y del linker dan resultado un programa
+source coude El codigo que se escribe
+statment Lo que controla la ejecucion del programa.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+CAPITULO 3
+
+REVIEW
+
+1.-Prompt es un texto u orden que se le da al usuario
+2.->>
+3.-cout<<"Da un numero.";
+   cin>>number;
+4.-Tipo especial de caracter, es usado para saltar linea
+5.-
+6.-
+7.-cout<<"Hello, "<< first_name << "!\n";
+8.-Una region de memoria que guarda un valor de cierto tipo
+9.-La notacion o nombres de los valores (int, double, bool, etc)
+10.-Int, double, char, string, float, bool, etc
+11.-Una variable es un objeto nombrado
+12.-int 4 bytes
+    char 1 byte
+    double 8 bytes
+13.-La conversion de tipo
+14.-"=" asigna un valor "==" significa igual que
+15.-Una declaracion que especifica la entidad a la que el nombre fue referenciado
+16.-La inicializacion es cuando se le da un valor a una variable, se diferencia en que no hay valor anterior
+17.-Es la union de 2 o más strings, se usa con "+"
+18.-1 es correcto
+    2 no por que tiene espacio
+    3 es correcto
+    4 correcto 
+    5 no es correcto $ no es letra
+    6 correcto 
+    7 no es correcto por que empieza con numero
+    8 no es correcto por que no empieza con letra y el "_" puede causar problemas con algunas definiciones de C++
+    9 no es correcto ? no es letra 
+19.- int, double,string,bool,_hi
+20.-Que sean siginificativos,entendibles y cortos
+21.-La propiedad a que un objeto puede acceder de acuerdo a su definicion, es importante para mantener un codigo correcto y corregible
+22.-Por el tamaño de memoria que tiene, uno es más grande que otro por lo tanto puede tener fallos a interpretarlo 
+23.-Que el valor o tamaño dado no sea muy grande dados los diferentes tamaños de memoria
+
+ 
+
+ 
