@@ -1,11 +1,10 @@
 #include <iostream>
 
 using namespace std;
-
-int main()
+void ciclo()
 {
-	int aray[10];
-cout<<"\tPon tus 10 numeros\n"<<endl;
+    int aray[10];
+    cout<<"\tPon tus 10 numeros\n"<<endl;
 	for(int i=0; i<10; i++)
 	{
 		cin>> aray[i];
@@ -41,9 +40,14 @@ for(int i=0;i<10;i++)
 	{
 		cout<<i+1<<") "<<aray[i]<<endl;
 	}
+}
+int main()
+{
 
+    ciclo();
 	cin.ignore();
 	cin.get();
 	return 0;
 
 }
+
