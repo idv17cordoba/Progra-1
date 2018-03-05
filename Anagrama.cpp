@@ -8,6 +8,8 @@ int main () {
   vector<string>anagram;
 
   ifstream myfile ("Anagrama.txt");
+  ofstream es ("Es.txt");
+  ofstream noes ("NoEs.txt");
   if (myfile.is_open())
   {
     while ( getline (myfile,line) )
@@ -32,11 +34,13 @@ while(i<words.size()-1)
 if(anagram[i] == anagram[i+1])
 {
         cout<<words[i]<< " es anagrama de "<<words[i+1]<<endl;
+        es<<words[i]<< " es anagrama de "<<words[i+1]<<endl;
 
 }
 else
     {
         cout<<words[i]<< " no es anagrama de "<<words[i+1]<<endl;
+        noes<<words[i]<< " no es anagrama de "<<words[i+1]<<endl;
     }
     i++;
 }
