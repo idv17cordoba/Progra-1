@@ -8,8 +8,8 @@ int main () {
   vector<string>anagram;
 
   ifstream myfile ("Anagrama.txt");
-  ofstream es ("Es.txt");
-  ofstream noes ("NoEs.txt");
+  ofstream anag ("Anag.txt");
+
   if (myfile.is_open())
   {
     while ( getline (myfile,line) )
@@ -23,27 +23,33 @@ int main () {
 
 for(int i=0;i<words.size();i++)
   {
-    cout<<words[i]<<endl;
+    cout<<i+1<<") "<<words[i]<<endl;
     anagram.push_back(words[i]);
     sort(anagram[i].begin(),anagram[i].end());
 
   }
-int i=0;
-while(i<words.size()-1)
-{
-if(anagram[i] == anagram[i+1])
-{
-        cout<<words[i]<< " es anagrama de "<<words[i+1]<<endl;
-        es<<words[i]<< " es anagrama de "<<words[i+1]<<endl;
+for (int i=0; i<anagram.size(); i++)
+	{
+		for (int x=0; x<anagram.size()-1; x++)
+		{
+			if(anagram[x]<anagram[x+1])
+			{
 
-}
-else
-    {
-        cout<<words[i]<< " no es anagrama de "<<words[i+1]<<endl;
-        noes<<words[i]<< " no es anagrama de "<<words[i+1]<<endl;
-    }
-    i++;
-}
+				string temp=anagram[x+1];
+
+				anagram[x+1]=anagram[x];
+
+				anagram[x]=temp;
+
+			}
+		}
+	}
+anag<<"\n---Sorted---\n\n";
+
+	for(int i=0; i<anagram.size(); i++)
+	{
+		anag<<i+1<<") "<<anagram[i]<<endl;
+	}
 
 
   return 0;
