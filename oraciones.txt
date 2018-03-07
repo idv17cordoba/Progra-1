@@ -1,0 +1,30 @@
+﻿Sujeto
+El tren
+Andres
+Sergio
+El titere
+Adjetivo
+rojo
+avergonzado
+grande
+antiguo
+Verbo
+avanza
+cae
+limpia
+salta
+Advervio
+silenciosamente
+precipitadamente
+lentamente
+felizmente
+Preposicion
+sobre
+entre
+por
+para
+Sustantivo
+las vias
+los tablones
+el techo
+la audiencia
